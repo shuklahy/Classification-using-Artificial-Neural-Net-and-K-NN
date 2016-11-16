@@ -1,4 +1,4 @@
-# NeuralNetwork_KNN_Data_Mining
+# Classification using ANN and KNN
 
 ##Group members:
 * Niharika Dutta (1211093283)   ndutta2@asu.edu
