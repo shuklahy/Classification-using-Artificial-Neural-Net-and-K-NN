@@ -1,8 +1,8 @@
 # Classification using ANN and KNN
 
 ## Group members:
-* [Niharika Dutta](ndutta2@asu.edu) (1211093283)   
-* [Hitendra Shukla](hyshukla@asu.edu) (1211175859) 
+* [Niharika Dutta](mailto:ndutta2@asu.edu) (1211093283)   
+* [Hitendra Shukla](mailto:hyshukla@asu.edu) (1211175859) 
 
 In this assignment we have implemented two very important classification algorithms: K-Nearest Neighbor and Neural Network classification algorithms.
 We trained our models on the training set provided, and tested the accuracy of our models on the given test set.
